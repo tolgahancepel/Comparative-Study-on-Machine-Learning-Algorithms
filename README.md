@@ -14,3 +14,4 @@ In this project, I have analsyed several datasets using regression algorithms. T
 ## Content
 ### Regression Models
 1 - <a href="src/1-BostonHousing/boston-housing-notebook.ipynb">Boston Housing Regression Analysis</a>
+2 - <a href="src/2-ToyotaCorolla/toyota-corolla-notebook.ipynb">Toyota Corolla Regression Analysis</a>
