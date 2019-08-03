@@ -10,7 +10,7 @@ In this project, I have analsyed several datasets using regression algorithms. T
 
 You can also review python notebooks in my <a href="https://www.kaggle.com/tolgahancepel/kernels">Kaggle</a> profile.
 
-### Programming Language and Libraries
+#### Programming Language and Libraries
 - Python (numpy, pandas, matplotlib, scikit-learn)
 
 ## Content
