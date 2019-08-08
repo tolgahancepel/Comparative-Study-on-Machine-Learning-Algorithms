@@ -17,7 +17,7 @@ You can also review python notebooks on my <a href="https://www.kaggle.com/tolga
 ### Regression Analyses
 1 - <a href="https://github.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/blob/master/src/Regression/boston-housing-notebook.ipynb">Boston Housing Regression Analysis</a> - 
 <a href="https://www.kaggle.com/tolgahancepel/boston-housing-regression-analysis">
-  <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"</img>
+  <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
 <br>
 2 - <a href="src/2-ToyotaCorolla/toyota-corolla-notebook.ipynb">Toyota Corolla Regression Analysis</a> - 
