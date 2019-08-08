@@ -14,10 +14,14 @@ You can also review python notebooks on my <a href="https://www.kaggle.com/tolga
 - Python (numpy, pandas, matplotlib, scikit-learn)
 
 ## Content
-### Regression Models
-1 - <a href="src/1-BostonHousing/boston-housing-notebook.ipynb">Boston Housing Regression Analysis</a> <br>
-2 - <a href="src/2-ToyotaCorolla/toyota-corolla-notebook.ipynb">Toyota Corolla Regression Analysis</a> <br>
+### Regression Analyses
+1 - <a href="src/1-BostonHousing/boston-housing-notebook.ipynb">Boston Housing Regression Analysis</a> - 
+<a href="https://www.kaggle.com/tolgahancepel/boston-housing-regression-analysis">Kaggle</a>
+<br>
+2 - <a href="src/2-ToyotaCorolla/toyota-corolla-notebook.ipynb">Toyota Corolla Regression Analysis</a> - 
+<a href="https://www.kaggle.com/tolgahancepel/toyota-corolla-prices-regression-analysis">Kaggle</a>
+<br>
 (in progress)
 
-### Classification Models
+### Classification Analyses
 (in progress)
