@@ -1,7 +1,7 @@
 ## Machine Learning: Regression and Classification Analyses
 
-<img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analysis/master/Header.png"
-data-canonical-src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analysis/master/Header.png"
+<img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/Header.png"
+data-canonical-src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/Header.png"
 width="720" height="180" />
 
 ### About
