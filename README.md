@@ -11,7 +11,7 @@ In this project, I have analsyed several datasets using regression and classific
 - Logistic Regression, K-Nearest Neighbors (K-NN), Support Vector Machine (SVM), Naive Bayes, Decision Tree Classification and Random Forest Classification. <br>
 
 #### Programming Language and Libraries
-- Python (numpy, pandas, matplotlib, scikit-learn)
+- Python (numpy, pandas, matplotlib, seaborn, scikit-learn)
 
 ## Content
 ### Regression Analyses
