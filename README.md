@@ -9,7 +9,6 @@ width="720" height="180" />
 In this project, I have analsyed several datasets using regression and classification algorithms. These algorithms are: <br>
 - Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Support Vector Regression, Decision Tree Regression and Random Forest Regression. <br>
 - Logistic Regression, K-Nearest Neighbors (K-NN), Support Vector Machine (SVM), Naive Bayes, Decision Tree Classification and Random Forest Classification. <br>
-You can also view jupyter notebooks on my <a href="https://www.kaggle.com/tolgahancepel/kernels">Kaggle</a> profile.
 
 #### Programming Language and Libraries
 - Python (numpy, pandas, matplotlib, scikit-learn)
