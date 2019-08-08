@@ -6,8 +6,7 @@ width="720" height="180" />
 
 ### About
 
-In this project, I have analsyed several datasets using regression algorithms. These algorithms are Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Support Vector Regression, Decision Tree Regression and Random Forest Regression. There is not only jupyter notebooks but also python files seperated by algorithms.
-
+In this project, I have analsyed several datasets using regression algorithms. These algorithms are Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Support Vector Regression, Decision Tree Regression and Random Forest Regression.
 You can also review python notebooks on my <a href="https://www.kaggle.com/tolgahancepel/kernels">Kaggle</a> profile.
 
 #### Programming Language and Libraries
