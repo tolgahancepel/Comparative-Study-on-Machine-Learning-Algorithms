@@ -27,6 +27,12 @@ In this project, I have analsyed several datasets using regression and classific
 </a>
 <br>
 
+3 - <a href="#">Medical Costs Regression Analysis</a> - 
+<a href="https://www.kaggle.com/tolgahancepel/medical-costs-regression-hypertuning-eda">
+  <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
+</a>
+<br>
+
 (in progress)
 
 ### Classification Analyses
