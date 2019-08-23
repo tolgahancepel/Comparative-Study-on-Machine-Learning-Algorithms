@@ -41,4 +41,9 @@ In this project, I have analsyed several datasets using regression and classific
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
 
+2 - <a href="#">Glass Classification Analysis</a> - 
+<a href="#">
+  <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
+</a>
+
 (in progress)
