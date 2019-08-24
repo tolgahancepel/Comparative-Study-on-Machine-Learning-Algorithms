@@ -41,8 +41,8 @@ In this project, I have analsyed several datasets using regression and classific
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
 
-2 - <a href="#">Glass Classification Analysis</a> - 
-<a href="#">
+2 - <a href="https://github.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/blob/master/src/Classification/glass-classification.ipynb">Glass Classification Analysis</a> - 
+<a href="https://www.kaggle.com/tolgahancepel/glass-classification-analysis-with-eda">
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
 
