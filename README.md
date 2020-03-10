@@ -33,8 +33,6 @@ In this project, I have analsyed several datasets using regression and classific
 </a>
 <br>
 
-(in progress)
-
 ### Classification Analyses
 1 - <a href="https://github.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/blob/master/src/Classification/red-wine-quality.ipynb">Red Wine Quality Classification Analysis</a> - 
 <a href="https://www.kaggle.com/tolgahancepel/red-wine-quality-classification-analysis">
@@ -45,5 +43,3 @@ In this project, I have analsyed several datasets using regression and classific
 <a href="https://www.kaggle.com/tolgahancepel/glass-classification-analysis-with-eda">
   <img src="https://raw.githubusercontent.com/tolgahancepel/Machine-Learning-Regression-and-Classification-Analyses/master/img/kaggle-button.png"></img>
 </a>
-
-(in progress)
